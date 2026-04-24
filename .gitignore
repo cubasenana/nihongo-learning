@@ -153,6 +153,9 @@ venv.bak/
 
 # mkdocs documentation
 /site
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
 
 # mypy
 .mypy_cache/
@@ -205,3 +208,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Resource files
+resources/*
+!resources/新标日/
+resources/新标日/*
+!resources/新标日/md/
+resources/新标日/md/*
+!resources/新标日/md/structured/
+!resources/新标日/md/reader/
+resources/新标日/md/structured/*
+!resources/新标日/md/structured/初级上册/
+resources/新标日/md/structured/初级上册/*
+!resources/新标日/md/structured/初级上册/**
+resources/新标日/md/reader/*
+!resources/新标日/md/reader/初级上册/
+resources/新标日/md/reader/初级上册/*
+!resources/新标日/md/reader/初级上册/**
