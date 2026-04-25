@@ -1,274 +1,333 @@
-# 第21課 わたしは <ruby>すき焼き<rt>すきやき</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ことが あります
+# 第21課 わたしは すき<ruby>焼<rt>や</rt></ruby>きを <ruby>食<rt>た</rt></ruby>べた ことが あります
 
-<div class="page-range">Pages: 269-278</div>
+<div class="page-range">Pages: 252-261</div>
 
-> 图像策略：本课以文字页为主；歌舞伎应用课文与传统艺能补充页已改成纯文字学习版，不额外保留参考图。
+> 当前完成度：`S3+（精修版）`。已逐页对照原书 400dpi PDF 全量 OCR 转录。
 
-> 当前完成度：`S3（学习版）`。`M0-M7` 已全部归位；练习页与课内补充内容已完成学习版重排；重度注音已覆盖正文、例句与主要题面；录音题仍按规范只保留题型、例题与作答方式，不转写音频内容。
-
-<div class="page-marker" data-page="269">Page 269</div>
+<div class="page-marker" data-page="252">Page 252</div>
 
 ## 基本课文
 
 ### 基本句
 
-1. わたしは <ruby>すき焼き<rt>すきやき</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ことが あります。  
-2. <ruby>李<rt>り</rt></ruby>さんは <ruby>会社<rt>かいしゃ</rt></ruby>が <ruby>終わった<rt>おわった</rt></ruby> <ruby>後<rt>あと</rt></ruby>で、<ruby>飲み<rt>のみ</rt></ruby>に <ruby>行きます<rt>いきます</rt></ruby>。  
-3. もっと <ruby>野菜<rt>やさい</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ほうが いいですよ。  
-4. <ruby>窓<rt>まど</rt></ruby>を <ruby>閉めましょう<rt>しめましょう</rt></ruby>か。  
+1. わたしは すき<ruby>焼<rt>や</rt></ruby>きを <ruby>食<rt>た</rt></ruby>べた ことが あります。
+2. <ruby>李<rt>り</rt></ruby>さんは <ruby>会社<rt>かいしゃ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わった <ruby>後<rt>あと</rt></ruby>で、<ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きます。
+3. もっと <ruby>野菜<rt>やさい</rt></ruby>を <ruby>食<rt>た</rt></ruby>べた ほうが いいですよ。
+4. <ruby>窓<rt>まど</rt></ruby>を <ruby>閉<rt>し</rt></ruby>めましょうか。
 
 ### 会话 A
 
-甲：お<ruby>寿司<rt>すし</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ことが ありますか。  
-乙：いいえ、<ruby>一度<rt>いちど</rt></ruby>も ありません。<ruby>天ぷら<rt>てんぷら</rt></ruby>は <ruby>食べた<rt>たべた</rt></ruby> ことが あります。  
+甲：お<ruby>寿司<rt>すし</rt></ruby>を <ruby>食<rt>た</rt></ruby>べた ことが ありますか。  
+乙：いいえ、<ruby>一度<rt>いちど</rt></ruby>も ありません。  
+　　<ruby>天<rt>てん</rt></ruby>ぷらは <ruby>食<rt>た</rt></ruby>べた ことが あります。
 
 ### 会话 B
 
-甲：この <ruby>資料<rt>しりょう</rt></ruby>を <ruby>見て<rt>みて</rt></ruby>も いいですか。  
-乙：はい。<ruby>読んだ<rt>よんだ</rt></ruby> <ruby>後<rt>あと</rt></ruby>で、<ruby>森<rt>もり</rt></ruby>さんに <ruby>渡して<rt>わたして</rt></ruby> ください。  
+甲：この <ruby>資料<rt>しりょう</rt></ruby>を <ruby>見<rt>み</rt></ruby>ても いいですか。  
+乙：はい。<ruby>読<rt>よ</rt></ruby>んだ <ruby>後<rt>あと</rt></ruby>で、<ruby>森<rt>もり</rt></ruby>さんに <ruby>渡<rt>わた</rt></ruby>して ください。
 
 ### 会话 C
 
-甲：ホテルを <ruby>予約した<rt>よやくした</rt></ruby> ほうが いいですか。  
-乙：そうですね。<ruby>連休<rt>れんきゅう</rt></ruby>ですから、その ほうが いいですね。  
+甲：ホテルを <ruby>予約<rt>よやく</rt></ruby>した ほうが いいですか。  
+乙：そうですね。<ruby>連休<rt>れんきゅう</rt></ruby>ですから、その ほうが いいですね。
 
 ### 会话 D
 
-甲：<ruby>何か<rt>なにか</rt></ruby> <ruby>食べましょう<rt>たべましょう</rt></ruby>か。  
-乙：いいえ。<ruby>寝る<rt>ねる</rt></ruby> <ruby>前<rt>まえ</rt></ruby>に <ruby>食べない<rt>たべない</rt></ruby> ほうが いいですよ。  
+甲：<ruby>何<rt>なに</rt></ruby>か <ruby>食<rt>た</rt></ruby>べましょうか。  
+乙：いいえ。<ruby>寝<rt>ね</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に <ruby>食<rt>た</rt></ruby>べない ほうが いいですよ。
 
-<div class="page-marker" data-page="270">Page 270</div>
+<div class="page-marker" data-page="253">Page 253</div>
 
 ## 语法解释
 
-### 1. 动词的 `た形`
+### 1. 动词的"た<ruby>形<rt>けい</rt></ruby>"
 
-本课开始系统使用动词的 `た形`。它的变换方式和 `て形` 很接近，可以把它理解成：
+在本课，我们学习用动词"た形"构成的句型。"た形"的变换方式是把"て形"的"て"换成"た"，把"で"换成"だ"。
 
-- `て形` 里的 `て` 变成 `た`
-- `て形` 里的 `で` 变成 `だ`
+| 类别 | ます形 | → | て形 | た形 |
+|------|--------|---|------|------|
+| 一类动词 | <ruby>書<rt>か</rt></ruby>きます | → | かいて | かいた |
+| | ※<ruby>行<rt>い</rt></ruby>きます | → | いって | いった |
+| | <ruby>急<rt>いそ</rt></ruby>ぎます | → | いそいで | いそいだ |
+| | <ruby>飛<rt>と</rt></ruby>びます | → | とんで | とんだ |
+| | <ruby>読<rt>よ</rt></ruby>みます | → | よんで | よんだ |
+| | <ruby>死<rt>し</rt></ruby>にます | → | しんで | しんだ |
+| | <ruby>待<rt>ま</rt></ruby>ちます | → | まって | まった |
+| | <ruby>売<rt>う</rt></ruby>ります | → | うって | うった |
+| | <ruby>買<rt>か</rt></ruby>います | → | かって | かった |
+| | <ruby>話<rt>はな</rt></ruby>します | → | はなして | はなした |
+| 二类动词 | <ruby>食<rt>た</rt></ruby>べます | → | たべて | たべた |
+| | <ruby>見<rt>み</rt></ruby>ます | → | みて | みた |
+| 三类动词 | <ruby>来<rt>き</rt></ruby>ます | → | きて | きた |
+| | します | → | して | した |
 
-例如：
+### 2. `動（た形）` ことが あります
 
-- <ruby>書きます<rt>かきます</rt></ruby> → <ruby>書いて<rt>かいて</rt></ruby> → <ruby>書いた<rt>かいた</rt></ruby>
-- <ruby>急ぎます<rt>いそぎます</rt></ruby> → <ruby>急いで<rt>いそいで</rt></ruby> → <ruby>急いだ<rt>いそいだ</rt></ruby>
-- <ruby>待ちます<rt>まちます</rt></ruby> → <ruby>待って<rt>まって</rt></ruby> → <ruby>待った<rt>まった</rt></ruby>
-- <ruby>食べます<rt>たべます</rt></ruby> → <ruby>食べて<rt>たべて</rt></ruby> → <ruby>食べた<rt>たべた</rt></ruby>
-- <ruby>来ます<rt>きます</rt></ruby> → <ruby>来て<rt>きて</rt></ruby> → <ruby>来た<rt>きた</rt></ruby>
-- します → して → した
+表示过去的经历，大致相当于汉语的"（曾经）～过"。通常用于至少半年以前发生的事情，而在叙述"昨天""上午"等离现在很近的以前的经历时，不能使用本句型。本句型既可用于叙述经历的时间、次数，也可只用于谈及某种经历。其否定形式是"动词た形＋ことが ありません"。强调完全没有某种经历时，有时候可以加"<ruby>一度<rt>いちど</rt></ruby>も"。疑问的表达形式是"动词た形＋ことが ありますか"。疑问句一般只问有无某种经历。回答时，可以重复问句中的部分词语，也可以只说"はい、あります"或"いいえ、ありません"。而不能说"×はい、ことが あります"或"×いいえ、ことが ありません"。
 
-### 2. `動詞た形 + ことが あります`
+- わたしは すき<ruby>焼<rt>や</rt></ruby>きを **<ruby>食<rt>た</rt></ruby>べた** ことが **あります**。（我吃过日式牛肉火锅。）
+- <ruby>北京<rt>ペキン</rt></ruby>へ **<ruby>行<rt>い</rt></ruby>った** ことが **あります**か。（你去过北京吗？）  
+  ——いいえ、**<ruby>一度<rt>いちど</rt></ruby>も** <ruby>行<rt>い</rt></ruby>った ことが ありま**せん**。（没有，一次也没有去过。）  
+  ——いいえ。（不，没有。）
 
-表示过去的经历，相当于汉语里的“做过……”。
+<div class="page-marker" data-page="254">Page 254</div>
 
-- わたしは <ruby>すき焼き<rt>すきやき</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ことが あります。  
-- <ruby>北京<rt>ペキン</rt></ruby>へ <ruby>行った<rt>いった</rt></ruby> ことが ありますか。  
-- いいえ、<ruby>一度<rt>いちど</rt></ruby>も <ruby>行った<rt>いった</rt></ruby> ことが ありません。  
+### 3. `動（た形）` <ruby>後<rt>あと</rt></ruby>で、～
 
-这个句型通常说的是距离现在稍远一点的经历，不拿来描述“昨天刚做过”的事。
+表示一个动作在另一个动作之后发生时，使用这个句型。
 
-<div class="page-marker" data-page="271">Page 271</div>
+- <ruby>会社<rt>かいしゃ</rt></ruby>が **<ruby>終<rt>お</rt></ruby>わった** <ruby>後<rt>あと</rt></ruby>**で**、<ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きます。（公司下班后去喝酒。）
+- <ruby>映画<rt>えいが</rt></ruby>を **<ruby>見<rt>み</rt></ruby>た** <ruby>後<rt>あと</rt></ruby>**で**、<ruby>食事<rt>しょくじ</rt></ruby>を しました。（看完电影后吃了饭。）
 
-### 3. `動詞た形 + 後で`
+这个句型也可以"名词＋の＋後で"的形式使用。
 
-表示一个动作做完之后，再做另一个动作。
+- <ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ます。（工作之后看电影。）
 
-- <ruby>会社<rt>かいしゃ</rt></ruby>が <ruby>終わった<rt>おわった</rt></ruby> <ruby>後<rt>あと</rt></ruby>で、<ruby>飲み<rt>のみ</rt></ruby>に <ruby>行きます<rt>いきます</rt></ruby>。  
-- <ruby>映画<rt>えいが</rt></ruby>を <ruby>見た<rt>みた</rt></ruby> <ruby>後<rt>あと</rt></ruby>で、<ruby>食事<rt>しょくじ</rt></ruby>を しました。  
-- <ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>映画<rt>えいが</rt></ruby>を <ruby>見ます<rt>みます</rt></ruby>。  
+> 第 20 课我们学习了"～前に"（☞第 20 课语法解释 4）。"～前に"的"前"的后面必须是"に"，而"～後で"的"後"的后面必须是"で"。"～前に"前面的动词形式必须是"基本形"，而"～後で"前面的动词形式必须是"た形"。
 
-和 `〜前に` 对照时要注意：
+### 4. `動（た形）` ほうが いいです
 
-- `〜前に` 前面接 `基本形`
-- `〜後で` 前面接 `た形`
+本句型用于在两种事物中进行选择时。否定表达形式为"动词ない形＋ほうが いいです"。当建议对方做理想的动作、行为时，句尾多加"よ"。
 
-### 4. `動詞た形 + ほうが いいです`
+- もっと <ruby>野菜<rt>やさい</rt></ruby>を **<ruby>食<rt>た</rt></ruby>べた** ほうが いいですよ。（还是多吃点蔬菜好哇。）
+- そんなに **<ruby>慌<rt>あわ</rt></ruby>てない** ほうが いいですよ。（别那么慌张。）
+- ホテルを **<ruby>予約<rt>よやく</rt></ruby>した** ほうが いいですか。（饭店还是先预约的为好吗？）
 
-表示“还是……比较好”。否定时改成 `ない形 + ほうが いいです`。
+### 5. `動ましょうか`【提议】
 
-- もっと <ruby>野菜<rt>やさい</rt></ruby>を <ruby>食べた<rt>たべた</rt></ruby> ほうが いいですよ。  
-- そんなに <ruby>慌てない<rt>あわてない</rt></ruby> ほうが いいですよ。  
-- ホテルを <ruby>予約した<rt>よやくした</rt></ruby> ほうが いいですか。  
+用于提议对方和自己一起做某事或向对方提议自己为对方做某事。第 17 课学习过的"～ませんか""～ましょう"只表示提议对方和自己一起做某事（☞第 17 课语法解释 4），而"～ましょうか"则另外还有向对方确认自己的提议是否可行的意思。翻译时一般在其后加"好吗？"之类的词语，使语调柔和。
 
-### 5. `〜ましょうか`
+- <ruby>何<rt>なに</rt></ruby>か <ruby>食<rt>た</rt></ruby>べ**ましょうか**。（吃点什么吗？）
 
-这个句型既可以表示“我们一起……吧”，也可以表示“我来帮你……好吗”。
+> 回答时，如本句型的意思是甲向乙提议为对方做某事时，则乙说"はい、お<ruby>願<rt>ねが</rt></ruby>いします"。如本句型的意思是甲向乙提议双方一起做某事时，则乙说"はい、そうしましょう"。反对或拒绝提议时则用"～ないで ください"或"いいえ、ちょっと……"。
 
-- <ruby>何か<rt>なにか</rt></ruby> <ruby>食べましょう<rt>たべましょう</rt></ruby>か。  
-- <ruby>荷物<rt>にもつ</rt></ruby>を <ruby>持ちましょう<rt>もちましょう</rt></ruby>か。  
-- <ruby>窓<rt>まど</rt></ruby>を <ruby>閉めましょう<rt>しめましょう</rt></ruby>か。  
+- <ruby>荷物<rt>にもつ</rt></ruby>を <ruby>持<rt>も</rt></ruby>ち**ましょうか**。（我来帮你拿行李吧？）  
+  ——はい、お<ruby>願<rt>ねが</rt></ruby>いします。（好的，拜托你了。）
+- <ruby>窓<rt>まど</rt></ruby>を <ruby>閉<rt>し</rt></ruby>め**ましょうか**。（关上窗子好吗？）  
+  ——いいえ、<ruby>閉<rt>し</rt></ruby>めないで ください。（不，请别关。）
 
-回答时常见说法：
-
-- `はい、そうしましょう。`
-- `はい、お願いします。`
-- `いいえ、〜ないで ください。`
-
-<div class="page-marker" data-page="272">Page 272</div>
+<div class="page-marker" data-page="255">Page 255</div>
 
 ## 表达及词语讲解
 
-### 1. `そのほうが いいです`
+### 1. その ほうが いいです
 
-这个说法常常用来接受对方刚才提出的建议：
+动词的"た形"和"ない形"可以后续"ほうが いいです"。名词及指示事物的词也可以后续"ほうが いいです"来表示比较、选择的意思。名词及"これ／それ／あれ"用"名词／これ／それ／あれ＋の＋ほうが いいです"的形式，"この／その／あの"用"この／その／あの＋ほうが いいです"的形式。
 
-- ホテルを <ruby>予約した<rt>よやくした</rt></ruby> ほうが いいですか。  
-  → そうですね。<ruby>連休<rt>れんきゅう</rt></ruby>ですから、その ほうが いいですね。  
+- リンゴと ミカンと どちらが いいですか。（苹果、橘子你喜欢哪个？）  
+  ——わたしは リンゴの ほうが いいです。（我喜欢吃苹果。）
+- <ruby>速<rt>はや</rt></ruby>いですから、<ruby>飛行機<rt>ひこうき</rt></ruby>の ほうが いいですよ。（因为速度快，还是坐飞机去比较好。）
+- ビールの グラスは、これと あれと どちらが いいですか。（啤酒杯，这个和那个，哪个好？）  
+  ——（拿起手边的杯子）これの ほうが いいです。（这个好。）
+- デザインは、この <ruby>車<rt>くるま</rt></ruby>と あの <ruby>車<rt>くるま</rt></ruby>と どちらが いいですか。  
+  ——（指着停在远处的那辆）**あの** ほうが いいです。  
+  （这个车和那个车，哪个车型好看？——那个好看。）
 
-如果前面有两个对象在比较，也可以说：
+另外，口语中谈到对方的事情时，可用"その"，即用"その ほうが いいです"来表示接受对方的建议。
 
-- リンゴと ミカンと どちらが いいですか。  
-  → リンゴの ほうが いいです。  
+- ホテルを <ruby>予約<rt>よやく</rt></ruby>した ほうが いいですか。（饭店还是先预约的为好吗？）  
+  ——そうですね。<ruby>連休<rt>れんきゅう</rt></ruby>ですから、**その** ほうが いいですね。（是啊，因为是连休，先预约的好啊。）
+- すぐに <ruby>吉田<rt>よしだ</rt></ruby>さんに <ruby>連絡<rt>れんらく</rt></ruby>した ほうが いいですか。（马上和吉田先生联系比较好吗？）  
+  ——ええ、**その** ほうが いいですよ。すぐ <ruby>電話<rt>でんわ</rt></ruby>して ください。（是的，那样比较好。马上打电话吧。）
 
-### 2. `連休`
+### 2. <ruby>連休<rt>れんきゅう</rt></ruby>
 
-`連休` 指连续休假，最典型的是日本四月底到五月初的 `ゴールデンウィーク`。  
-它和“单独休息一天”不一样，重点是“连续好几天一起放”。
+连续的休假叫"<ruby>連休<rt>れんきゅう</rt></ruby>"。"<ruby>連休<rt>れんきゅう</rt></ruby>"一词更多用于指星期日和节假日连在一起的连续休假。在日本，最长的"<ruby>連休<rt>れんきゅう</rt></ruby>"是 4 月末至 5 月初的连续休假，叫做"ゴールデンウィーク"。"ゴールデンウィーク"有时也写作"<ruby>黄金週間<rt>おうごんしゅうかん</rt></ruby>"，但要读成"ゴールデンウィーク"，而不能读成"おうごんしゅうかん"。
 
-### 3. `何度か`
+### 3. <ruby>何度<rt>なんど</rt></ruby>か
 
-疑问词后面加 `か`，可以表示不确定的数量：
+第 20 课学习了疑问词后续"か"，即"いつか""どこか""<ruby>何<rt>なに</rt></ruby>か"等表示不确定语义的形式（☞第 20 课语法解释 5）。应用课文中的"<ruby>何度<rt>なんど</rt></ruby>か"也一样，在疑问词"<ruby>何度<rt>なんど</rt></ruby>（几次）"后续"か"
 
-- <ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>何度か<rt>なんどか</rt></ruby> <ruby>見に<rt>みに</rt></ruby> <ruby>行った<rt>いった</rt></ruby> ことが あります。  
+<div class="page-marker" data-page="256">Page 256</div>
 
-同类说法还有：
+表示汉语"几次"的意思。类似的形式还有"<ruby>何人<rt>なんにん</rt></ruby>か""<ruby>何冊<rt>なんさつ</rt></ruby>か"等。在表示不定数量时，日语中疑问词后面必须加"か"。
 
-- `何人か`
-- `何冊か`
+- <ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>何度<rt>なんど</rt></ruby>か <ruby>見<rt>み</rt></ruby>に <ruby>行<rt>い</rt></ruby>った ことが あります。（下班后，去看过几次。）
 
-<div class="page-marker" data-page="273">Page 273</div>
+### 4. 9<ruby>時<rt>じ</rt></ruby><ruby>過<rt>す</rt></ruby>ぎ
 
-## 单元末专题：歌舞伎与传统表演艺术
+"～<ruby>過<rt>す</rt></ruby>ぎ"用在表示时间或年龄的词语后面表示超过了该时间或年龄。用在表示时间的词语后面时，是"数词＋時／分＋過ぎ"的形式。用在表示年龄的词语后面时，是"数词＋過ぎ"的形式，中间不加"<ruby>歳<rt>さい</rt></ruby>"。
 
-### 1. `〜過ぎ`
+- ゆうべ 10<ruby>時<rt>じ</rt></ruby><ruby>過<rt>す</rt></ruby>ぎに <ruby>地震<rt>じしん</rt></ruby>が ありました。（昨晚 10 点左右发生了地震。）
+- その <ruby>泥棒<rt>どろぼう</rt></ruby>は いくつぐらいでしたか。（那个小偷大概多大年龄？）  
+  ——そうですね…、30<ruby>過<rt>す</rt></ruby>ぎでした。（嗯……30 岁出头。）
 
-接在时间和年龄后面，表示“刚过…… / ……出头”：
+### 5. <ruby>歌舞伎<rt>かぶき</rt></ruby>
 
-- ゆうべ 10<ruby>時<rt>じ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>に <ruby>地震<rt>じしん</rt></ruby>が ありました。  
-- 30<ruby>過ぎ<rt>すぎ</rt></ruby>でした。  
+日本传统表演艺术之一，是一种在日本传统乐器演奏的"<ruby>囃子<rt>はやし</rt></ruby>（伴奏）"音乐伴奏下表演的集舞蹈剧、音乐剧为一体的剧目形式。歌舞伎始于 17 世纪初，于 18 世纪初定型，深受民众的欢迎。歌舞伎演员全部都是男性，女性的角色也由叫做"<ruby>女形<rt>おんながた</rt></ruby>（旦角儿）"的演员来表演。歌舞伎作为日本的传统表演艺术受到日本国家的保护。
 
-### 2. 歌舞伎
+演出时间分日场和晚场，分别演出不同的节目。日场和晚场，每场均长达约 4 个小时，因此中间有休息时间。在休息时间里，不少观众吃饭喝茶，既可利用剧场内的餐馆，也可从外面买来进餐。此外，小卖部也销售盒饭。幕间休息时间叫做"<ruby>幕間<rt>まくあい</rt></ruby>"，为此，在这种时间内吃的盒饭称作"<ruby>幕<rt>まく</rt></ruby>の<ruby>内弁当<rt>うちべんとう</rt></ruby>"。现在"<ruby>幕<rt>まく</rt></ruby>の<ruby>内弁当<rt>うちべんとう</rt></ruby>"一词也指一种普通的盒饭。（<ruby>仮名手本忠臣蔵<rt>かなでほんちゅうしんぐら</rt></ruby>）
 
-`歌舞伎` 是日本传统表演艺术之一。它的特点是：
+> **传统表演艺术、文化**
 
-- 演出时间长
-- 分日场和晚场
-- 中间常有 `幕間`，也就是幕间休息
-- 不少观众会在休息时间吃便当
+| | | |
+|---|---|---|
+| <ruby>歌舞伎<rt>かぶき</rt></ruby> 歌舞伎 | <ruby>狂言<rt>きょうげん</rt></ruby> 狂言 | <ruby>華道<rt>かどう</rt></ruby> 花道 |
+| <ruby>能<rt>のう</rt></ruby> 能 | <ruby>文楽<rt>ぶんらく</rt></ruby> 木偶净琉璃戏 | <ruby>茶道<rt>さどう</rt></ruby> 茶道 |
+| | | <ruby>書道<rt>しょどう</rt></ruby> 书法 |
 
-### 3. 三味线与传统艺能
+（☞ p.296）
 
-歌舞伎常见的传统伴奏乐器包括：
-
-- `三味線`
-- `太鼓`
-- `笛`
-
-如果只从学习角度抓重点，这一页最重要的并不是背完所有文化名词，而是把这些表达学顺：
-
-- `〜たことが あります`
-- `〜た後で`
-- `〜たほうが いいです`
-
-<div class="page-marker" data-page="274">Page 274</div>
+<div class="page-marker" data-page="257">Page 257</div>
 
 ## 应用课文
 
-### 歌舞伎
+### <ruby>歌舞伎<rt>かぶき</rt></ruby>
 
-> 小李回国的日子临近了。回国前，吉田科长送来了歌舞伎的票。为了赶晚场，小李和小野提前离开公司。
+> 小李回国的日子临近了。回国前，吉田科长为小李买来观赏歌舞伎的票。为了赶晚场的演出，小李和小野提前离开了公司。
 
-#### 场景 1：先快一点，别迟到
+（4 点前，小李和小野离开公司，向车站走去）
 
-<ruby>小野<rt>おの</rt></ruby>：<ruby>少し<rt>すこし</rt></ruby> <ruby>急ぎましょう<rt>いそぎましょう</rt></ruby>か。<ruby>遅れない<rt>おくれない</rt></ruby> ほうが いいですから。  
-<ruby>李<rt>り</rt></ruby>：そうしましょう。ところで、<ruby>小野<rt>おの</rt></ruby>さんは よく <ruby>歌舞伎<rt>かぶき</rt></ruby>を <ruby>見ます<rt>みます</rt></ruby>か。  
-<ruby>小野<rt>おの</rt></ruby>：<ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>何度か<rt>なんどか</rt></ruby> <ruby>見に<rt>みに</rt></ruby> <ruby>行った<rt>いった</rt></ruby> ことが あります。  
+<ruby>小野<rt>おの</rt></ruby>：<ruby>少<rt>すこ</rt></ruby>し <ruby>急<rt>いそ</rt></ruby>ぎましょうか。<ruby>遅<rt>おく</rt></ruby>れない ほうが いいですから。  
+<ruby>李<rt>り</rt></ruby>：そうしましょう。ところで、<ruby>小野<rt>おの</rt></ruby>さんは よく <ruby>歌舞伎<rt>かぶき</rt></ruby>を <ruby>見<rt>み</rt></ruby>ますか。  
+<ruby>小野<rt>おの</rt></ruby>：<ruby>仕事<rt>しごと</rt></ruby>の <ruby>後<rt>あと</rt></ruby>で、<ruby>何度<rt>なんど</rt></ruby>か <ruby>見<rt>み</rt></ruby>に <ruby>行<rt>い</rt></ruby>った ことが あります。
 
-#### 场景 2：吃饭放在看之前还是看之后
+（一边走一边看票）
 
-<ruby>李<rt>り</rt></ruby>：<ruby>終わり<rt>おわり</rt></ruby>は 9<ruby>時<rt>じ</rt></ruby><ruby>過ぎ<rt>すぎ</rt></ruby>ですね。<ruby>食事<rt>しょくじ</rt></ruby>は どうしますか。  
-<ruby>小野<rt>おの</rt></ruby>：<ruby>歌舞伎<rt>かぶき</rt></ruby>を <ruby>見た<rt>みた</rt></ruby> <ruby>後<rt>あと</rt></ruby>で <ruby>食べます<rt>たべます</rt></ruby>か。それとも、<ruby>見る<rt>みる</rt></ruby> <ruby>前<rt>まえ</rt></ruby>に <ruby>何か<rt>なにか</rt></ruby> <ruby>食べます<rt>たべます</rt></ruby>か。  
-<ruby>李<rt>り</rt></ruby>：そうですね。<ruby>休憩時間<rt>きゅうけいじかん</rt></ruby>に <ruby>食事<rt>しょくじ</rt></ruby>を しましょうか。  
-<ruby>小野<rt>おの</rt></ruby>：ええ、いいですよ。じゃあ、<ruby>早く<rt>はやく</rt></ruby> <ruby>行って<rt>いって</rt></ruby> お<ruby>弁当<rt>べんとう</rt></ruby>を <ruby>買った<rt>かった</rt></ruby> ほうが いいですね。  
+<ruby>小野<rt>おの</rt></ruby>：<ruby>終<rt>お</rt></ruby>わりは 9<ruby>時<rt>じ</rt></ruby><ruby>過<rt>す</rt></ruby>ぎですね。<ruby>食事<rt>しょくじ</rt></ruby>は どうしますか。  
+<ruby>李<rt>り</rt></ruby>：<ruby>歌舞伎<rt>かぶき</rt></ruby>を <ruby>見<rt>み</rt></ruby>た <ruby>後<rt>あと</rt></ruby>で、<ruby>食<rt>た</rt></ruby>べますか。それとも、<ruby>見<rt>み</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に <ruby>何<rt>なに</rt></ruby>か <ruby>食<rt>た</rt></ruby>べますか。  
+<ruby>小野<rt>おの</rt></ruby>：そうですね…、<ruby>休憩時間<rt>きゅうけいじかん</rt></ruby>に <ruby>食事<rt>しょくじ</rt></ruby>を しましょうか。  
+<ruby>李<rt>り</rt></ruby>：ええ、いいですよ。  
+<ruby>小野<rt>おの</rt></ruby>：じゃあ、<ruby>早<rt>はや</rt></ruby>く <ruby>行<rt>い</rt></ruby>って お<ruby>弁当<rt>べんとう</rt></ruby>を <ruby>買<rt>か</rt></ruby>った ほうが いいですね。
 
-#### 场景 3：语言没全懂，但演出很精彩
+（看完歌舞伎后，小李很兴奋）
 
-<ruby>李<rt>り</rt></ruby>：<ruby>言葉<rt>ことば</rt></ruby>は <ruby>分かりません<rt>わかりません</rt></ruby>でしたが、とても よかったです。  
-<ruby>小野<rt>おの</rt></ruby>：そうですね。<ruby>課長<rt>かちょう</rt></ruby>に <ruby>感謝しましょう<rt>かんしゃしましょう</rt></ruby>。  
-<ruby>李<rt>り</rt></ruby>：ええ。<ruby>京劇<rt>きょうげき</rt></ruby>も いいですが、<ruby>歌舞伎<rt>かぶき</rt></ruby>も すばらしいですね。<ruby>小野<rt>おの</rt></ruby>さんは <ruby>京劇<rt>きょうげき</rt></ruby>を <ruby>見た<rt>みた</rt></ruby> ことが ありますか。  
-<ruby>小野<rt>おの</rt></ruby>：いいえ、<ruby>一度<rt>いちど</rt></ruby>も ありません。いつか <ruby>見たい<rt>みたい</rt></ruby>ですね。  
-<ruby>李<rt>り</rt></ruby>：じゃあ、ぜひ <ruby>北京<rt>ペキン</rt></ruby>へ <ruby>京劇<rt>きょうげき</rt></ruby>を <ruby>見に<rt>みに</rt></ruby> <ruby>来て<rt>きて</rt></ruby> ください。  
+<ruby>李<rt>り</rt></ruby>：<ruby>言葉<rt>ことば</rt></ruby>は <ruby>分<rt>わ</rt></ruby>かりませんでしたが、とても よかったです。  
+<ruby>小野<rt>おの</rt></ruby>：そうですね。<ruby>課長<rt>かちょう</rt></ruby>に <ruby>感謝<rt>かんしゃ</rt></ruby>しましょう。  
+<ruby>李<rt>り</rt></ruby>：ええ、<ruby>京劇<rt>きょうげき</rt></ruby>も いいですが、<ruby>歌舞伎<rt>かぶき</rt></ruby>も すばらしいですね。  
+　　<ruby>小野<rt>おの</rt></ruby>さんは <ruby>京劇<rt>きょうげき</rt></ruby>を <ruby>見<rt>み</rt></ruby>た ことが ありますか。  
+<ruby>小野<rt>おの</rt></ruby>：いいえ、<ruby>一度<rt>いちど</rt></ruby>も ありません。いつか <ruby>見<rt>み</rt></ruby>たいですね。  
+<ruby>李<rt>り</rt></ruby>：じゃあ、ぜひ <ruby>北京<rt>ペキン</rt></ruby>へ <ruby>京劇<rt>きょうげき</rt></ruby>を <ruby>見<rt>み</rt></ruby>に <ruby>来<rt>き</rt></ruby>て ください。
 
-<div class="page-marker" data-page="275">Page 275</div>
+<div class="page-marker" data-page="258">Page 258</div>
 
 ## 练习
 
-> 练习保真说明：本节按网页学习版重排。可文字化的题面尽量展开；依赖录音、图表或原页版式的题目，保留题型、例题、小题范围和训练重点。
-
 ### 练习 I
 
-#### 1. 把 `ます形` 改成 `た形`
+#### 1. 听录音，将"ます形"变为"た形"。
 
-- <ruby>歩きます<rt>あるきます</rt></ruby> → <ruby>歩いた<rt>あるいた</rt></ruby>
-- <ruby>急ぎます<rt>いそぎます</rt></ruby> → <ruby>急いだ<rt>いそいだ</rt></ruby>
-- <ruby>乗ります<rt>のります</rt></ruby> → <ruby>乗った<rt>のった</rt></ruby>
-- <ruby>来ます<rt>きます</rt></ruby> → <ruby>来た<rt>きた</rt></ruby>
+| | ます形 | た形 | | ます形 | た形 |
+|---|--------|------|---|--------|------|
+| 例 | <ruby>歩<rt>ある</rt></ruby>きます | <ruby>歩<rt>ある</rt></ruby>いた | ⑪ | <ruby>浴<rt>あ</rt></ruby>びます | |
+| ① | <ruby>書<rt>か</rt></ruby>きます | | ⑫ | <ruby>見<rt>み</rt></ruby>ます | |
+| ② | <ruby>脱<rt>ぬ</rt></ruby>ぎます | | ⑬ | <ruby>考<rt>かんが</rt></ruby>えます | |
+| ③ | <ruby>急<rt>いそ</rt></ruby>ぎます | | ⑭ | <ruby>寝<rt>ね</rt></ruby>ます | |
+| ④ | <ruby>飲<rt>の</rt></ruby>みます | | ⑮ | <ruby>忘<rt>わす</rt></ruby>れます | |
+| ⑤ | <ruby>休<rt>やす</rt></ruby>みます | | ⑯ | <ruby>始<rt>はじ</rt></ruby>めます | |
+| ⑥ | <ruby>乗<rt>の</rt></ruby>ります | | ⑰ | します | |
+| ⑦ | <ruby>歌<rt>うた</rt></ruby>います | | ⑱ | <ruby>安心<rt>あんしん</rt></ruby>します | |
+| ⑧ | <ruby>立<rt>た</rt></ruby>ちます | | ⑲ | <ruby>運動<rt>うんどう</rt></ruby>します | |
+| ⑨ | <ruby>消<rt>け</rt></ruby>します | | ⑳ | <ruby>来<rt>き</rt></ruby>ます | |
+| ⑩ | <ruby>話<rt>はな</rt></ruby>します | | | | |
 
-#### 2. `〜た後で`
+#### 2. 边看图边听录音，仿照例句回答提问。
 
-- <ruby>映画<rt>えいが</rt></ruby>を <ruby>見ます<rt>みます</rt></ruby> / <ruby>食事<rt>しょくじ</rt></ruby>を します  
-  → <ruby>映画<rt>えいが</rt></ruby>を <ruby>見た<rt>みた</rt></ruby> <ruby>後<rt>あと</rt></ruby>で、<ruby>食事<rt>しょくじ</rt></ruby>を します。  
-- <ruby>家<rt>いえ</rt></ruby>へ <ruby>帰ります<rt>かえります</rt></ruby> / <ruby>電話<rt>でんわ</rt></ruby>します
-- <ruby>子ども<rt>こども</rt></ruby>が <ruby>寝ます<rt>ねます</rt></ruby> / ワインを <ruby>飲みます<rt>のみます</rt></ruby>
+| | 上の動作 | 下の動作 |
+|---|---|---|
+| 例 | シャワーを <ruby>浴<rt>あ</rt></ruby>びます | <ruby>寝<rt>ね</rt></ruby>ます |
+| (1) | <ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を <ruby>食<rt>た</rt></ruby>べます | テレビを <ruby>見<rt>み</rt></ruby>ます |
+| (2) | ジョギングを します | シャワーを <ruby>浴<rt>あ</rt></ruby>びます |
+| (3) | <ruby>掃除<rt>そうじ</rt></ruby>します | <ruby>洗濯<rt>せんたく</rt></ruby>します |
+| (4) | <ruby>勉強<rt>べんきょう</rt></ruby>します | <ruby>音楽<rt>おんがく</rt></ruby>を <ruby>聞<rt>き</rt></ruby>きます |
 
-<div class="page-marker" data-page="276">Page 276</div>
+[例] シャワーを <ruby>浴<rt>あ</rt></ruby>びた <ruby>後<rt>あと</rt></ruby>で、<ruby>何<rt>なに</rt></ruby>を しますか。——<ruby>寝<rt>ね</rt></ruby>ます。  
+<ruby>寝<rt>ね</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に、<ruby>何<rt>なに</rt></ruby>を しますか。——シャワーを <ruby>浴<rt>あ</rt></ruby>びます。
 
-#### 3. `〜たことが あります`
+(1)　(2)　(3)　(4)
 
-- <ruby>中国語<rt>ちゅうごくご</rt></ruby>を <ruby>教えます<rt>おしえます</rt></ruby>  
-  → <ruby>中国語<rt>ちゅうごくご</rt></ruby>を <ruby>教えた<rt>おしえた</rt></ruby> ことが あります。  
-- ゴルフを します
-- ここへ <ruby>来ます<rt>きます</rt></ruby>
-- <ruby>東京<rt>とうきょう</rt></ruby>タワーへ <ruby>行きます<rt>いきます</rt></ruby>
+<div class="page-marker" data-page="259">Page 259</div>
 
-#### 4. `〜たほうが いいです / 〜ないほうが いいです`
+#### 3. 仿照例句替换画线部分进行练习。
 
-- <ruby>後で<rt>あとで</rt></ruby> <ruby>電話します<rt>でんわします</rt></ruby>  
-  → <ruby>後で<rt>あとで</rt></ruby> <ruby>電話した<rt>でんわした</rt></ruby> ほうが いいですよ。  
-- <ruby>毎晩<rt>まいばん</rt></ruby> お<ruby>酒<rt>さけ</rt></ruby>を <ruby>飲みます<rt>のみます</rt></ruby>  
-  → <ruby>毎晩<rt>まいばん</rt></ruby> お<ruby>酒<rt>さけ</rt></ruby>を <ruby>飲まない<rt>のまない</rt></ruby> ほうが いいですよ。  
+[例1] すき<ruby>焼<rt>や</rt></ruby>きを <ruby>食<rt>た</rt></ruby>べます → わたしは すき<ruby>焼<rt>や</rt></ruby>きを <ruby>食<rt>た</rt></ruby>べた ことが あります。
 
-<div class="page-marker" data-page="277">Page 277</div>
+(1) <ruby>中国語<rt>ちゅうごくご</rt></ruby>を <ruby>教<rt>おし</rt></ruby>えます　(2) ゴルフを します　(3) ここへ <ruby>来<rt>き</rt></ruby>ます  
+(4) <ruby>東京<rt>とうきょう</rt></ruby>タワーへ <ruby>行<rt>い</rt></ruby>きます　(5) <ruby>東京<rt>とうきょう</rt></ruby>から <ruby>横浜<rt>よこはま</rt></ruby>まで <ruby>歩<rt>ある</rt></ruby>きます
+
+[例2] <ruby>会社<rt>かいしゃ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わります／<ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きます  
+→ <ruby>会社<rt>かいしゃ</rt></ruby>が <ruby>終<rt>お</rt></ruby>わった <ruby>後<rt>あと</rt></ruby>で、<ruby>飲<rt>の</rt></ruby>みに <ruby>行<rt>い</rt></ruby>きます。
+
+(6) <ruby>調<rt>しら</rt></ruby>べます／<ruby>報告<rt>ほうこく</rt></ruby>します　(7) <ruby>家<rt>いえ</rt></ruby>へ <ruby>帰<rt>かえ</rt></ruby>ります／<ruby>電話<rt>でんわ</rt></ruby>します  
+(8) <ruby>子供<rt>こども</rt></ruby>が <ruby>寝<rt>ね</rt></ruby>ました／ワインを <ruby>飲<rt>の</rt></ruby>みました　(9) <ruby>映画<rt>えいが</rt></ruby>を <ruby>見<rt>み</rt></ruby>ました／<ruby>食事<rt>しょくじ</rt></ruby>を しました
+
+#### 4. 仿照例句进行练习。
+
+[例1] <ruby>予約<rt>よやく</rt></ruby>します → <ruby>予約<rt>よやく</rt></ruby>した ほうが いいですよ。  
+<ruby>食<rt>た</rt></ruby>べません → <ruby>食<rt>た</rt></ruby>べない ほうが いいですよ。
+
+(1) <ruby>後<rt>あと</rt></ruby>で <ruby>電話<rt>でんわ</rt></ruby>します　(2) <ruby>吉田<rt>よしだ</rt></ruby>さんに <ruby>話<rt>はな</rt></ruby>します  
+(3) <ruby>毎晩<rt>まいばん</rt></ruby> お<ruby>酒<rt>さけ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>みません　(4) お<ruby>風呂<rt>ふろ</rt></ruby>に <ruby>入<rt>はい</rt></ruby>りません
+
+[例2] <ruby>窓<rt>まど</rt></ruby>を <ruby>閉<rt>し</rt></ruby>めます → <ruby>窓<rt>まど</rt></ruby>を <ruby>閉<rt>し</rt></ruby>めましょうか。
+
+(5) <ruby>電気<rt>でんき</rt></ruby>を つけます　(6) テレビを <ruby>消<rt>け</rt></ruby>します  
+(7) メールアドレスを <ruby>書<rt>か</rt></ruby>きます　(8) ドアを <ruby>開<rt>あ</rt></ruby>けます  
+(9) <ruby>切符<rt>きっぷ</rt></ruby>を <ruby>買<rt>か</rt></ruby>います　(10) スミスさんに <ruby>連絡<rt>れんらく</rt></ruby>します
+
+#### 5. 仿照例句替换画线部分练习会话。
+
+[例] <ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きます（はい）→ 甲：<ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>行<rt>い</rt></ruby>った ことが ありますか。  
+　　　　　　　　　　　　　　　　　乙：はい、あります。
+
+<ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きます（いいえ）→ 甲：<ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>行<rt>い</rt></ruby>った ことが ありますか。  
+　　　　　　　　　　　　　　　　　　　乙：いいえ、ありません。
+
+(1) <ruby>太極拳<rt>たいきょくけん</rt></ruby>を <ruby>習<rt>なら</rt></ruby>います（いいえ）　(2) <ruby>海<rt>うみ</rt></ruby>で <ruby>泳<rt>およ</rt></ruby>ぎます（いいえ）  
+(3) <ruby>浴衣<rt>ゆかた</rt></ruby>を <ruby>着<rt>き</rt></ruby>ます（はい）　(4) <ruby>富士山<rt>ふじさん</rt></ruby>に <ruby>登<rt>のぼ</rt></ruby>ります（はい）
+
+#### 6. 仿照例句替换画线部分进行练习。
+
+[例] <ruby>連休<rt>れんきゅう</rt></ruby>です／<ruby>予約<rt>よやく</rt></ruby>します → <ruby>連休<rt>れんきゅう</rt></ruby>ですから、<ruby>予約<rt>よやく</rt></ruby>した ほうが いいです。  
+<ruby>体<rt>からだ</rt></ruby>に よく ないです／タバコを <ruby>吸<rt>す</rt></ruby>いません → <ruby>体<rt>からだ</rt></ruby>に よく ないですから、タバコを <ruby>吸<rt>す</rt></ruby>わない ほうが いいです。
+
+(1) <ruby>便利<rt>べんり</rt></ruby>です／<ruby>地図<rt>ちず</rt></ruby>を <ruby>買<rt>か</rt></ruby>います  
+(2) <ruby>暗<rt>くら</rt></ruby>いです／<ruby>電気<rt>でんき</rt></ruby>を つけます  
+(3) <ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby>が ありません／<ruby>車<rt>くるま</rt></ruby>で <ruby>行<rt>い</rt></ruby>きません  
+(4) <ruby>危<rt>あぶ</rt></ruby>ないです／そこを <ruby>渡<rt>わた</rt></ruby>りません
+
+<div class="page-marker" data-page="260">Page 260</div>
 
 ### 练习 II
 
-#### 1. `〜ましょうか`
+#### 1. 从【　】中选择适当的词语，变成适当的形式填入（　）中。
 
-- <ruby>窓<rt>まど</rt></ruby>を <ruby>閉めます<rt>しめます</rt></ruby>  
-  → <ruby>窓<rt>まど</rt></ruby>を <ruby>閉めましょう<rt>しめましょう</rt></ruby>か。  
-- <ruby>電気<rt>でんき</rt></ruby>を つけます
-- テレビを <ruby>消します<rt>けします</rt></ruby>
-- スミスさんに <ruby>連絡します<rt>れんらくします</rt></ruby>
+[例] ラジオを（ <ruby>聞<rt>き</rt></ruby>いて ）ください。
 
-#### 2. 会话替换
+(1) <ruby>歌舞伎<rt>かぶき</rt></ruby>を（　　）ことが ありますか。  
+(2) シャワーを（　　）から、プールに <ruby>入<rt>はい</rt></ruby>って ください。  
+(3) <ruby>暗<rt>くら</rt></ruby>いですね。<ruby>電気<rt>でんき</rt></ruby>を（　　）ましょうか。  
+(4) お<ruby>酒<rt>さけ</rt></ruby>は たくさん（　　）ほうが いいですよ。  
+(5) ご<ruby>飯<rt>はん</rt></ruby>を（　　）<ruby>後<rt>あと</rt></ruby>で、<ruby>部屋<rt>へや</rt></ruby>を <ruby>掃除<rt>そうじ</rt></ruby>します。
 
-- <ruby>大阪<rt>おおさか</rt></ruby>へ <ruby>行った<rt>いった</rt></ruby> ことが ありますか。  
-  → はい、あります。 / いいえ、ありません。  
+【<ruby>聞<rt>き</rt></ruby>きます　つけます　<ruby>食<rt>た</rt></ruby>べます　<ruby>飲<rt>の</rt></ruby>みます　<ruby>見<rt>み</rt></ruby>ます　<ruby>浴<rt>あ</rt></ruby>びます】
 
-可替换成：
+#### 2. 从【　】中选择适当的词语，变成适当的形式填入（　）中。
 
-- <ruby>海<rt>うみ</rt></ruby>で <ruby>泳いだ<rt>およいだ</rt></ruby> ことが ありますか。  
-- <ruby>富士山<rt>ふじさん</rt></ruby>に <ruby>登った<rt>のぼった</rt></ruby> ことが ありますか。  
+[例] <ruby>連休<rt>れんきゅう</rt></ruby>ですから、ホテルを <ruby>予約<rt>よやく</rt></ruby>（ した ）ほうが いいです。
 
-#### 3. 听力保留题型
+(1) <ruby>外<rt>そと</rt></ruby>の <ruby>音<rt>おと</rt></ruby>が うるさいですから、<ruby>窓<rt>まど</rt></ruby>を（　　）ほうが いいですね。  
+(2) のどが <ruby>痛<rt>いた</rt></ruby>いです。——じゃあ、<ruby>歌<rt>うた</rt></ruby>を（　　）ほうが いいですよ。  
+(3) <ruby>交差点<rt>こうさてん</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くですから、ここに <ruby>車<rt>くるま</rt></ruby>を（　　）ほうが いいですよ。  
+(4) <ruby>毎日<rt>まいにち</rt></ruby> <ruby>運動<rt>うんどう</rt></ruby>を（　　）ほうが いいですよ。  
+(5) お<ruby>酒<rt>さけ</rt></ruby>を <ruby>飲<rt>の</rt></ruby>んでから、お<ruby>風呂<rt>ふろ</rt></ruby>に（　　）ほうが いいですよ。  
+(6) <ruby>田中<rt>たなか</rt></ruby>さんは <ruby>中国語<rt>ちゅうごくご</rt></ruby>が よく <ruby>分<rt>わ</rt></ruby>かりませんから、ゆっくり（　　）ほうが いいですよ。
 
-本页原书含录音题，网页版保留训练重点：
+【します　<ruby>歌<rt>うた</rt></ruby>います　<ruby>止<rt>と</rt></ruby>めます　<ruby>話<rt>はな</rt></ruby>します　<ruby>入<rt>はい</rt></ruby>ります　<ruby>閉<rt>し</rt></ruby>めます】
 
-- `た形` 的听辨
-- “做过 / 没做过”的回答
-- “应该做 / 不应该做”的建议表达
+#### 3. 听录音，与录音内容一致的在（　）中画○，不一致的画×。
 
-<div class="page-marker" data-page="278">Page 278</div>
+[例] テニスを した <ruby>後<rt>あと</rt></ruby>で、ビールを <ruby>飲<rt>の</rt></ruby>みます。（○）
+
+(1)（　　）　(2)（　　）　(3)（　　）
+
+#### 4. 将下面的句子译成日语。
+
+(1)（我）把窗户关上吧。  
+(2) 我吃过日式牛肉火锅。  
+(3) 还是多吃点蔬菜的好。
+
+<div class="page-marker" data-page="261">Page 261</div>
 
 ## 生词表
 
@@ -281,7 +340,7 @@
 - `おわり（終わり）` `[名]` 结束
 - `きゅうけいじかん（休憩時間）` `[名]` 休息时间
 - `きょうげき（京劇）` `[名]` 京剧
-- `きっぷ（切符）` `[名]` 票，车票
+- `きっぷ（切符）` `[名]` 票
 - `からだ（体）` `[名]` 身体
 - `じしん（地震）` `[名]` 地震
 - `どろぼう（泥棒）` `[名]` 小偷，盗贼
@@ -291,28 +350,29 @@
 - `かんがえます（考えます）` `[动2]` 考虑
 - `しらべます（調べます）` `[动2]` 调查
 - `きます（着ます）` `[动2]` 穿
-- `よやくします（予約〜）` `[动3]` 预约，预定
-- `かんしゃします（感謝〜）` `[动3]` 感谢
-- `うんどうします（運動〜）` `[动3]` 运动
-- `せんたくします（洗濯〜）` `[动3]` 洗涤，洗
-- `ほうこくします（報告〜）` `[动3]` 报告
+- `よやくします（予約～）` `[动3]` 预约，预定
+- `かんしゃします（感謝～）` `[动3]` 感谢
+- `うんどうします（運動～）` `[动3]` 运动
+- `せんたくします（洗濯～）` `[动3]` 洗涤
+- `ほうこくします（報告～）` `[动3]` 报告
 - `あぶない（危ない）` `[形1]` 危险
-- `それとも` `[连]` 还是，或者
-- `そんなに` `[副]` 那么，那样地
-
-### 专有名词
-
-- `とうきょうタワー（東京〜）` `[专]` 东京塔
+- `それとも` `[连]` 还是
+- `とうきょうタワー（東京～）` `[专]` 东京塔
 
 ### 表达
 
-- `〜すぎ` 超过……，……出头
+- `そんなに` 那么
+- `そうそう` 对了对了
+- `～すぎ（～過ぎ）` 过……
 
-### 专栏：三味线
+## 专栏
 
-歌舞伎里很重要的一种乐器是 `三味線`。它和中国的三弦有渊源，后来在日本经过改良，逐渐形成了今天常见的样子。  
-对这课来说，文化知识是加分项，真正要学熟的还是这几个句型：
+### <ruby>三味線<rt>しゃみせん</rt></ruby>
 
-- `〜たことが あります`
-- `〜た後で`
-- `〜たほうが いいです`
+<ruby>歌舞伎<rt>かぶき</rt></ruby>是日本的传统表演艺术。歌舞伎中使用的日本乐器有"<ruby>三味線<rt>しゃみせん</rt></ruby>（日本三弦）""<ruby>拍子木<rt>ひょうしぎ</rt></ruby>（梆子）""<ruby>太鼓<rt>たいこ</rt></ruby>（鼓）""<ruby>笛<rt>ふえ</rt></ruby>（笛子）"（☞ p.296）等，其中"<ruby>三味線<rt>しゃみせん</rt></ruby>"是歌舞伎中不可缺少的十分重要的乐器。
+
+据说"<ruby>三味線<rt>しゃみせん</rt></ruby>"来自中国的三弦。"<ruby>三味線<rt>しゃみせん</rt></ruby>"如何传入日本有诸多说法，比较有力的说法是，16 世纪传入琉球（现在的冲绳县），之后进入日本。
+
+传入日本后经过多次改良发展而成为现在这样的形状。
+
+在江户时代（17 世纪）之后，随着歌舞伎等日本文化的繁荣兴旺，"<ruby>三味線<rt>しゃみせん</rt></ruby>"作为伴奏乐器而得到广泛使用，不久形成了以"<ruby>三味線<rt>しゃみせん</rt></ruby>"为基调的歌舞伎独特的韵味。
