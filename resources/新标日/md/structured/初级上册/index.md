@@ -1,0 +1,38 @@
+# 新版标日第二版初级 上册（structured）
+
+- [前置资料](00-frontmatter.md) | Pages: 1-17
+- [入门单元](01-intro-unit.md) | Pages: 18-37
+- [第1单元 小李赴日 概览](unit-01-overview.md) | Pages: 38-38
+- [第1課 李さんは 中国人です](lesson-01.md) | Pages: 39-48
+- [第2課 これは 本です](lesson-02.md) | Pages: 49-58
+- [第3課 ここはデパートです](lesson-03.md) | Pages: 59-68
+- [第4課 部屋に机といすがあります](lesson-04.md) | Pages: 69-83
+- [第2单元 小李的公司生活ー① 概览](unit-02-overview.md) | Pages: 84-84
+- [第5課 森さんは 7時に 起きます](lesson-05.md) | Pages: 85-94
+- [第6課 吉田さんは 来月 中国へ 行きます](lesson-06.md) | Pages: 95-104
+- [第7課 李さんは 毎日 コーヒーを 飲みます](lesson-07.md) | Pages: 105-114
+- [第8課 李さんは 日本語で 手紙を 書きます](lesson-08.md) | Pages: 115-129
+- [第3单元 小李在箱根 概览](unit-03-overview.md) | Pages: 130-130
+- [第9課 四川料理は辛いです](lesson-09.md) | Pages: 131-140
+- [第10課 京都の 紅葉は 有名です](lesson-10.md) | Pages: 141-150
+- [第11課 小野さんは 歌が 好きです](lesson-11.md) | Pages: 151-160
+- [第12課 李さんは 森さんより 若いです](lesson-12.md) | Pages: 161-175
+- [第4单元 小李的公司生活一② 概览](unit-04-overview.md) | Pages: 176-176
+- [第13課 机の 上に 本が3 冊 あります](lesson-13.md) | Pages: 177-186
+- [第14課 昨日 デパートへ行 って,買い物しました](lesson-14.md) | Pages: 187-196
+- [第15課 小野さんは今新聞を読んでいます](lesson-15.md) | Pages: 197-206
+- [第16課 ホテルの 部屋は 広くて 明るいです](lesson-16.md) | Pages: 207-221
+- [第5单元 小李在日本迎新春 概览](unit-05-overview.md) | Pages: 222-222
+- [第17課 わたしは 新しい 洋服が 欲しいです](lesson-17.md) | Pages: 223-232
+- [第18課 携帯電話は とても 小さく なりました](lesson-18.md) | Pages: 233-242
+- [第19課 部屋の かぎを 忘れないで ください](lesson-19.md) | Pages: 243-252
+- [第20課 スミスさんはピアノを弾く ことができます](lesson-20.md) | Pages: 253-267
+- [第6单元 再见!日本 概览](unit-06-overview.md) | Pages: 268-268
+- [第21課 わたしは すき焼きを 食べた ことが あります](lesson-21.md) | Pages: 269-278
+- [第22課 森さんは 毎晩 テレビを 見る](lesson-22.md) | Pages: 279-288
+- [第23課 休みの 日,散歩したり 買い物に 行ったり します](lesson-23.md) | Pages: 289-298
+- [第24課 李さんは もう すぐ 来ると 思います](lesson-24.md) | Pages: 299-313
+- [日本语能力测试 N5 模拟试题](mock-test-n5.md) | Pages: 314-343
+- [附录](appendix.md) | Pages: 344-418
+- [Review Pages](review-pages.md)
+- [TODO](TODO.md)
