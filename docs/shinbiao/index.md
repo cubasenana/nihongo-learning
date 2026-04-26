@@ -5,15 +5,12 @@
 当前已经接入：
 
 - [初级上册](elementary-book-1/index.md)
-- [AI 接口总览](../ai/index.md)
 
 ## 站点思路
 
 - 内容层：尽量保持结构化、可导出
 - 展示层：交给 `VitePress`
-- AI 接口层：提供每课可直读的源 Markdown 镜像
 - 发布层：先用 `GitHub Pages`，成熟后可直接迁移到自有服务器
-- 壳子层：当前固定在 `VitePress 2.0.0-alpha.17`
 
 ## 内容约束
 

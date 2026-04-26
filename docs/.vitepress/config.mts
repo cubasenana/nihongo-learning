@@ -1,74 +1,15 @@
-import { existsSync, readFileSync } from 'node:fs'
-import { normalize, resolve, sep } from 'node:path'
-import { fileURLToPath } from 'node:url'
 import { defineConfig } from 'vitepress'
-
-const SITE_BASE = '/nihongo-learning/'
-const AI_RAW_PREFIX = `${SITE_BASE}ai/shinbiao/elementary-book-1/raw/`
-const PUBLIC_DIR = fileURLToPath(new URL('../public/', import.meta.url))
-
-function createAiRawMarkdownCharsetMiddleware() {
-  return (req: any, res: any, next: () => void) => {
-    const requestUrl = req.url
-    if (!requestUrl) {
-      next()
-      return
-    }
-
-    const pathname = new URL(requestUrl, 'http://localhost').pathname
-    if (!pathname.startsWith(AI_RAW_PREFIX) || !pathname.endsWith('.md')) {
-      next()
-      return
-    }
-
-    const relativePath = decodeURIComponent(pathname.slice(SITE_BASE.length))
-    const filePath = normalize(resolve(PUBLIC_DIR, relativePath))
-    const publicRoot = PUBLIC_DIR.endsWith(sep) ? PUBLIC_DIR : `${PUBLIC_DIR}${sep}`
-
-    if (!filePath.startsWith(publicRoot) || !existsSync(filePath)) {
-      next()
-      return
-    }
-
-    const content = readFileSync(filePath)
-    res.statusCode = 200
-    res.setHeader('Content-Type', 'text/markdown; charset=utf-8')
-    res.setHeader('Content-Length', String(content.byteLength))
-    res.end(content)
-  }
-}
-
-function aiRawMarkdownCharsetPlugin() {
-  const middleware = createAiRawMarkdownCharsetMiddleware()
-
-  return {
-    // 这里只负责本地 dev / preview 下 raw Markdown 的调试体验。
-    // 静态托管环境的浏览安全入口由 export 脚本生成的 /ai/.../<lesson>/ HTML 页面承担。
-    name: 'ai-raw-markdown-charset',
-    configureServer(server: any) {
-      server.middlewares.use(middleware)
-    },
-    configurePreviewServer(server: any) {
-      server.middlewares.use(middleware)
-    }
-  }
-}
 
 export default defineConfig({
   title: 'Nihongo Learning',
   description: '新标日学习站点实验版',
   lang: 'zh-CN',
-  base: SITE_BASE,
-  srcExclude: ['public/ai/**/*.md'],
+  base: '/nihongo-learning/',
   lastUpdated: true,
   cleanUrls: true,
-  vite: {
-    plugins: [aiRawMarkdownCharsetPlugin()]
-  },
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: 'AI 接口', link: '/ai/' },
       { text: '新标日', link: '/shinbiao/' },
       { text: '初级上册', link: '/shinbiao/elementary-book-1/' }
     ],
@@ -89,14 +30,6 @@ export default defineConfig({
     lightModeSwitchTitle: '切换到浅色模式',
     darkModeSwitchTitle: '切换到深色模式',
     sidebar: {
-      '/ai/': [
-        {
-          text: 'AI 接口',
-          items: [
-            { text: '总览', link: '/ai/' }
-          ]
-        }
-      ],
       '/shinbiao/': [
         {
           text: '新标日',
