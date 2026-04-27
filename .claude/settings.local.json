@@ -23,12 +23,14 @@
       "WebSearch",
       "mcp__plugin_playwright_playwright__browser_navigate",
       "mcp__plugin_playwright_playwright__browser_snapshot",
-      "mcp__plugin_playwright_playwright__browser_close"
+      "mcp__plugin_playwright_playwright__browser_close",
+      "Bash(rm -rf .git/modules/resources/)",
+      "Bash(git submodule *)"
     ],
     "defaultMode": "bypassPermissions"
   },
   "outputStyle": "技术挚友",
   "alwaysThinkingEnabled": true,
-  "showThinkingSummaries": true,
-  "effortLevel": "xhigh"
+  "effortLevel": "xhigh",
+  "showThinkingSummaries": true
 }
