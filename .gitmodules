@@ -1,0 +1,3 @@
+[submodule "resources/anki-jlpt-decks"]
+	path = resources/anki-jlpt-decks
+	url = https://github.com/5mdld/anki-jlpt-decks.git
