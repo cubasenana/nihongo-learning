@@ -12,18 +12,18 @@
 
 ## 项目概况
 
-当前正式教学源是 `docs/syllabus/lesson-01.md` 到 `docs/syllabus/lesson-48.md`。
+当前正式教学源是 `md/syllabus/lesson-01.md` 到 `md/syllabus/lesson-48.md`。
 
 标日电子稿/OCR 只用于提取**语法点列表和教学顺序**，不作为课文、词表、练习或例句来源。课程内容由 AI 基于 JLPT 词汇、语法累积边界和本项目大纲重新生成与校验。
 
 - Page: https://cubasenana.github.io/nihongo-learning/
-- 课程大纲：`docs/syllabus/lesson-XX.md`
-- 语法累积索引：`docs/syllabus/grammar-unlock.md`
+- 课程大纲：`md/syllabus/lesson-XX.md`
+- 语法累积索引：`md/syllabus/grammar-unlock.md`
 
 ## 核心规则
 
 - **不用选择题和挖空题**：练习只用中→日翻译、病句纠错、场景写作。
-- 词汇进度只卡生词表中标为核心 `📖` 的词。核心 `📖` = 课文出现且不属于专名、固定套话、场景例外的词；专名、固定套话、场景例外词可以不计入进度门槛。其余词按 ★ 难度分层用 Anki 长线复习。
+- 词汇进度只卡核心 `📖` 词。核心 `📖` = 生词表带 `📖`、课文出现、且不属于专名/固定套话/场景例外的词；专名、固定套话、场景例外词可以不计入进度门槛。其余词按 ★ 难度分层用 Anki 长线复习。
 - 开课 Gate 阶段必须联网搜索 Bunpro 对应条目做交叉校验；正式教学复用 Gate 结果，缺失或学生追问时再补搜。无法访问时必须明说“未能校验”。
 - 查词释义以 MOJI 辞書为准，词表范围以 `resources/jlpt-vocab-n5n4.csv` 为准，不使用标日词表。若无法直接查 MOJI，先用 CSV 释义和上下文教学，并标记“MOJI 未核验”；涉及词义争议时要求用户用 MOJI 复核。
 - 多 AI 交叉验证：Claude 生成大纲，GPT/DeepSeek 做验收；有分歧时按“规则优先级”处理。
@@ -42,9 +42,13 @@
 | 用途 | 文件 | 说明 |
 |------|------|------|
 | 词汇 | `resources/jlpt-vocab-n5n4.csv` | 1,568 词，JLPT 真题，Tab 分隔 |
-| 语法累积索引 | `docs/syllabus/grammar-unlock.md` | 48 行，每行为该课新增语法 |
-| 课程大纲 | `docs/syllabus/lesson-XX.md` | 48 课，含语法点/课文/生词表/练习框架 |
+| 语法累积索引 | `md/syllabus/grammar-unlock.md` | 48 行，每行为该课新增语法 |
+| 课程大纲 | `md/syllabus/lesson-XX.md` | 48 课，含语法点/课文/生词表/练习框架 |
 | 教学流程 Prompt | `md/prompts/gate-check.md` / `md/prompts/teaching-flow.md` | 开课前审查与正式教学流程 |
+| 机械预检脚本 | `scripts/gate-precheck.ps1` | 检查栏目、乱码、Markdown 表格列数、覆盖清单 |
+| Bunpro 缓存 | `md/records/bunpro-cache.md` | 记录已确认的 Bunpro 条目映射 |
+| 词汇例外表 | `md/records/vocab-exceptions.md` | 记录专名、固定套话、场景例外词 |
+| 学习记录 | `md/records/lesson-records.md` | 持久化每课 Lesson Record |
 | 上游词汇仓库 | `resources/anki-jlpt-decks/`（子模块） | [5mdld/anki-jlpt-decks](https://github.com/5mdld/anki-jlpt-decks) |
 
 ## 子 Prompt
